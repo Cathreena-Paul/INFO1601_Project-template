@@ -102,3 +102,13 @@ body {
     z-index: 9999;     
 }
 
+.user-info p {
+    font-size: 15px;
+    color: rgb(4, 4, 4);
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
